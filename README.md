@@ -128,6 +128,8 @@ Skills for working with complex file formats:
 | **[Expo Skills](https://github.com/expo/skills)** | Official skills by the Expo team for developing Expo apps |
 | **[shadcn/ui](https://ui.shadcn.com/docs/skills)** | Give Claude Code context on shadcn components as well as pattern enforcement |
 
+| **[cli-charts](https://github.com/2233admin/chartex)** | 24 terminal-native chart types (bar, line, pie, sparkline, heatmap, candlestick, and more) rendered directly in the terminal — no browser, no files. Designed for AI agents (Claude Code, Codex, Gemini CLI) that live in the CLI |
+
 _More community skills coming soon! Submit a PR to add your skill._
 
 ### Tools
