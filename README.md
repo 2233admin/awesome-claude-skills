@@ -127,6 +127,7 @@ Skills for working with complex file formats:
 | **[frontend-slides](https://github.com/zarazhangrui/frontend-slides)** | Create animation-rich HTML presentations — from scratch or by converting PowerPoint files |
 | **[Expo Skills](https://github.com/expo/skills)** | Official skills by the Expo team for developing Expo apps |
 | **[shadcn/ui](https://ui.shadcn.com/docs/skills)** | Give Claude Code context on shadcn components as well as pattern enforcement |
+| **[get-shit-done](https://github.com/gsd-build/get-shit-done)** | Lightweight meta-prompting, context engineering, and spec-driven development system for Claude Code by TÂCHES |
 
 | **[cli-charts](https://github.com/2233admin/chartex)** | 24 terminal-native chart types (bar, line, pie, sparkline, heatmap, candlestick, and more) rendered directly in the terminal — no browser, no files. Designed for AI agents (Claude Code, Codex, Gemini CLI) that live in the CLI |
 
